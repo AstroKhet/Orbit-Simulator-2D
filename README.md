@@ -19,3 +19,10 @@ Triple Star System
 
 Solar System
 ![Alt Text](https://github.com/AstroKhet/2D-Multi-Object-Simulator/blob/main/.demo/Solar%20System.gif)
+
+## What can be improved/implemented
+* Collision between objects
+* Displaying vectors for each object's velocity and gravitational acceleration
+* Displaying an orbit path
+* Ability to add & drag objects using mouse button 
+* Optimization in general
